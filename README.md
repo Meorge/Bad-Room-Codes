@@ -42,7 +42,7 @@ public class BadCodeParser : MonoBehaviour {
 	}
 }
 
-[Serializeable]
+[Serializable]
 public class BadCodes {
 	public string about;
 	public string credit;
